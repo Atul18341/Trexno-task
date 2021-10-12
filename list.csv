@@ -1,0 +1,74 @@
+S_No,Student_Name ,Regs_No,Branch,Passing_Year,College 
+1,Ratna Priya,18104135039,Electronics & Communication Engg. (ECE),2022,GEC Vaishali
+2,Sneh Sumant,18105126043,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+3,Simran,19105126903,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+4,RAJAT PRASAD,18105110021,Computer Sc. & Engineering (CSE),2022,"GCE, Gaya"
+5,Ruhi Shree,18104134030,Electronics & Communication Engg. (ECE),2022,GEC Banka
+6,RICHA KUMARI,18104107003,Electronics & Communication Engg. (ECE),2022,"MIT, Muzaffarpur"
+7,Aman raj,18105111050,Computer Sc. & Engineering (CSE),2022,"DCE, Darbhanga"
+8,Jay Shrivastava,18105126003,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+9,Anuradha,18104130006,Electronics & Communication Engg. (ECE),2022,SCE Supaul
+10,Abhishek Pushp Srivastava,18105113004,Computer Sc. & Engineering (CSE),2022,"MCE, Motihari"
+11,Gaurav kumar,19104108908,Electronics & Communication Engg. (ECE),2022,"BCE, Bhagalpur"
+12,Sonali Kumari,18105108016,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+13,Aprajita Singh,18105124028,Computer Sc. & Engineering (CSE),2022,"SCE, Sasaram"
+14,Naman Raj,18105111041,Computer Sc. & Engineering (CSE),2022,"DCE, Darbhanga"
+15,Huruza Alam,18104130036,Electronics & Communication Engg. (ECE),2022,SCE Supaul
+16,Tazeen irshad,18104134037,Electronics & Communication Engg. (ECE),2022,GEC Banka
+17,Aman Kumar,18104135030,Electronics & Communication Engg. (ECE),2022,GEC Vaishali
+18,Aniket Shandilya,18105117028,Computer Sc. & Engineering (CSE),2022,"LNJPIT, Chapra"
+19,Nishant varshney,18105108043,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+20,Vandana Bharti,18105108037,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+21,AJEET KUMAR,18104134017,Electronics & Communication Engg. (ECE),2022,GEC Banka
+22,Nishant Raj,18105127018,Computer Sc. & Engineering (CSE),2022,"SIT, Sitamarhi"
+23,RUCHIKA SHARMA,19105108911,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+24,Prashan Kumar,18105129040,Computer Sc. & Engineering (CSE),2022,"KEC, Katihar"
+25,SHWETA,18105110014,Computer Sc. & Engineering (CSE),2022,"GCE, Gaya"
+26,Sakshi Ghosh,18105129028,Computer Sc. & Engineering (CSE),2022,"KEC, Katihar"
+27,Nikhil Kumar Jha,18105129019,Computer Sc. & Engineering (CSE),2022,"KEC, Katihar"
+28,Pragya Kumari,18105113023,Computer Sc. & Engineering (CSE),2022,"MCE, Motihari"
+29,Nishtha,18105125014,Computer Sc. & Engineering (CSE),2022,"RRSDCE, Begusarai"
+30,NITESH KUMAR,18104135040,Electronics & Communication Engg. (ECE),2022,GEC Vaishali
+31,Zeba naz,18104134010,Electronics & Communication Engg. (ECE),2022,GEC Banka
+32,MD. SADIQUE NASIM,18105108021,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+33,Chandan kumar,18105110004,Computer Sc. & Engineering (CSE),2022,"GCE, Gaya"
+34,Kaushki Raj,18105113018,Computer Sc. & Engineering (CSE),2022,"MCE, Motihari"
+35,SAUMMYA SINGH,18104107025,Electronics & Communication Engg. (ECE),2022,"MIT, Muzaffarpur"
+36,Farhan Ahmad,18105140045,Computer Sc. & Engineering (CSE),2022,MACET Patna
+37,Ahsan Raza,18105140015,Computer Sc. & Engineering (CSE),2022,MACET Patna
+38,VIVEK KUMAR SINGH,18104107026,Electronics & Communication Engg. (ECE),2022,"MIT, Muzaffarpur"
+39,Hrithik Prasad,18105125044,Computer Sc. & Engineering (CSE),2022,"RRSDCE, Begusarai"
+40,Priya Raj,18105109040,Computer Sc. & Engineering (CSE),2022,"NCE, Chandi"
+41,Mohini Singh,18105124030,Computer Sc. & Engineering (CSE),2022,"SCE, Sasaram"
+42,Sourav kumar,18104122001,Electronics & Communication Engg. (ECE),2022,"Exalt College of Engineering and Technology, Vaishali "
+43,MOHAMMAD SOHAIL AKHTAR ,18104133030,Electronics & Communication Engg. (ECE),2022,GEC Jamui
+44,Vishakha Sinha ,18105126042,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+45,Nishant Kumar,18105102022,Computer Sc. & Engineering (CSE),2022,VVIT Purnea
+46,Lovely Kumari Bhagat,18105102007,Computer Sc. & Engineering (CSE),2022,VVIT Purnea
+47,Mrinal Singh,18104131044,Electronics & Communication Engg. (ECE),2022,PCE Purnea
+48,Shubham kumar,18105102010,Computer Sc. & Engineering (CSE),2022,VVIT Purnea
+49,Goldy Pandey,19105109901,Computer Sc. & Engineering (CSE),2022,"NCE, Chandi"
+50,Vinit kumar ,18105110005,Computer Sc. & Engineering (CSE),2022,"GCE, Gaya"
+51,Shubham Kumar,18104131049,Electronics & Communication Engg. (ECE),2022,PCE Purnea
+52,VANDANA KUMARI PODDAR,18105129029,Computer Sc. & Engineering (CSE),2022,"KEC, Katihar"
+53,SANSKRITI SINHA,18104130035,Electronics & Communication Engg. (ECE),2022,SCE Supaul
+54,Pratyush Kumar,18105109007,Computer Sc. & Engineering (CSE),2022,"NCE, Chandi"
+55,Vishakha Singh,18105117010,Computer Sc. & Engineering (CSE),2022,"LNJPIT, Chapra"
+56,Srishti,18105117025,Computer Sc. & Engineering (CSE),2022,"LNJPIT, Chapra"
+57,ASHISH KUMAR,18105124042,Computer Sc. & Engineering (CSE),2022,"SCE, Sasaram"
+58,Nidhi,18105111025,Computer Sc. & Engineering (CSE),2022,"DCE, Darbhanga"
+59,Shree Ram Kumar,19105108908,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+60,Md Owais Umar,18105140037,Computer Sc. & Engineering (CSE),2022,MACET Patna
+61,PRINCE KUMAR,18104131055,Electronics & Communication Engg. (ECE),2022,PCE Purnea
+62,Rashi,18105111011,Computer Sc. & Engineering (CSE),2022,"DCE, Darbhanga"
+63,Vandana,18105108027,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+64,Rohit Sahgal,19105126907,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+65,MUSHARRAF IQUBAL,18105127051,Computer Sc. & Engineering (CSE),2022,"SIT, Sitamarhi"
+66,Anshuman Sinha,18105126025,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+67,Puja Kumari,18104134028,Electronics & Communication Engg. (ECE),2022,GEC Banka
+68,Saima Rahman,18105140038,Computer Sc. & Engineering (CSE),2022,MACET Patna
+69,Vaishnavi Kumari,19110109901,Electronics & Communication Engg. (ECE),2022,"NCE, Chandi"
+70,Shivani Kumari,18105108024,Computer Sc. & Engineering (CSE),2022,"BCE, Bhagalpur"
+71,Komal Kumari,18105126026,Computer Sc. & Engineering (CSE),2022,"BCE, Bakhtiyarpur"
+72,NIKITA,18106107014,Computer Sc. & Engineering (CSE),2022,"MIT, Muzaffarpur"
+73,Abhishek Kumar,18106107003,Computer Sc. & Engineering (CSE),2022,"MIT, Muzaffarpur"
